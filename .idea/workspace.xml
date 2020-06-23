@@ -14,15 +14,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="170">
-                <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="login.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="88" column="25" lean-forward="false" selection-start-line="88" selection-start-column="25" selection-end-line="88" selection-end-column="25" />
+              <folding>
+                <marker date="1592938852688" expanded="true" signature="128:148" ph="..." />
+                <marker date="1592938852688" expanded="true" signature="366:430" ph="..." />
+                <marker date="1592938852688" expanded="true" signature="625:698" ph="..." />
+                <marker date="1592938852688" expanded="true" signature="763:812" ph="..." />
+                <marker date="1592938852688" expanded="true" signature="1089:1099" ph="..." />
+                <marker date="1592938852688" expanded="true" signature="1108:1128" ph="..." />
+                <marker date="1592938852688" expanded="true" signature="1347:1363" ph="..." />
+                <marker date="1592938852688" expanded="true" signature="1913:1923" ph="..." />
+                <marker date="1592938852688" expanded="true" signature="2556:2566" ph="..." />
+                <marker date="1592938852688" expanded="true" signature="4026:4078" ph="..." />
+                <marker date="1592938852688" expanded="true" signature="4128:4196" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,7 +53,6 @@
         <option value="$PROJECT_DIR$/app/Exceptions/Handler.php" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/resources/views/layouts/admin/master.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/DashboardController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" />
@@ -82,6 +90,7 @@
         <option value="$PROJECT_DIR$/database/seeds/PermissionTableSeeder.php" />
         <option value="$PROJECT_DIR$/database/seeds/CreateAdminUserSeeder.php" />
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
       </list>
     </option>
   </component>
@@ -228,7 +237,20 @@
             <path>
               <item name="pick_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="pick_test" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="routes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pick_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pick_test" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pick_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pick_test" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="auth" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -271,12 +293,12 @@
       <updated>1592843971176</updated>
       <workItem from="1592843974590" duration="16992000" />
       <workItem from="1592893119870" duration="7444000" />
-      <workItem from="1592927287782" duration="9942000" />
+      <workItem from="1592927287782" duration="10512000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34378000" />
+    <option name="totallyTimeSpent" value="34948000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -393,13 +415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="72" lean-forward="false" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="88" column="35" lean-forward="false" selection-start-line="88" selection-start-column="35" selection-end-line="88" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -760,6 +775,26 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="88" column="25" lean-forward="false" selection-start-line="88" selection-start-column="25" selection-end-line="88" selection-end-column="25" />
+          <folding>
+            <marker date="1592938852688" expanded="true" signature="128:148" ph="..." />
+            <marker date="1592938852688" expanded="true" signature="366:430" ph="..." />
+            <marker date="1592938852688" expanded="true" signature="625:698" ph="..." />
+            <marker date="1592938852688" expanded="true" signature="763:812" ph="..." />
+            <marker date="1592938852688" expanded="true" signature="1089:1099" ph="..." />
+            <marker date="1592938852688" expanded="true" signature="1108:1128" ph="..." />
+            <marker date="1592938852688" expanded="true" signature="1347:1363" ph="..." />
+            <marker date="1592938852688" expanded="true" signature="1913:1923" ph="..." />
+            <marker date="1592938852688" expanded="true" signature="2556:2566" ph="..." />
+            <marker date="1592938852688" expanded="true" signature="4026:4078" ph="..." />
+            <marker date="1592938852688" expanded="true" signature="4128:4196" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

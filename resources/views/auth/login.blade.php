@@ -86,7 +86,7 @@
             <!-- /.social-auth-links -->
 
             <p class="mb-1">
-                <a href="{{ route('register') }}">Register Now</a>
+                <a href="">Register Now</a>
             </p>
 
         </div>
